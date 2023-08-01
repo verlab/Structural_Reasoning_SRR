@@ -1,10 +1,24 @@
 # Structural Reasoning for Image-based Social Relation Recognition
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![Python](https://img.shields.io/badge/python-3.6-blue)](https://www.python.org/)
-[![Pytorch](https://img.shields.io/badge/pytorch-1.5.0-orange)](https://www.pytorch.org/.org/)
+[![Linux](https://img.shields.io/badge/Ubuntu-18.04-orange)](https://ubuntu.com/)
+[![Python](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-1.5.0-green)](https://pytorch.org/)
 
-> ⚠️ End-to-end implementation of the **_Social Graph Network (SGN)_**, which is composed of **three novel graph convolution methods**, described in the **_Structural Reasoning for Image-based Social Relation Recognition_** paper. (_🔍 Currently, under review_)
+> ⚠️ End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://authors.elsevier.com/c/1hTvU3qy-3aj0o) paper. If you find the contents of this repository useful in your research, please consider citing us:
+> ```BibTeX
+> @article{Sousa2023StructuralRF,
+>   title = {Structural reasoning for image-based social relation recognition},
+>   journal = {Computer Vision and Image Understanding},
+>   volume = {235},
+>   pages = {103785},
+>   year = {2023},
+>   issn = {1077-3142},
+>   doi = {https://doi.org/10.1016/j.cviu.2023.103785},
+>   url = {https://www.sciencedirect.com/science/article/pii/S1077314223001650},
+>   author = {Eduardo {V. Sousa} and Douglas {G. Macharet}},
+>   keywords = {Social relation recognition, Scene understanding, Group interaction, Image classification}
+> }
+> ```
 
 ## Overview
 

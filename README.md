@@ -4,7 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/)
 [![Pytorch](https://img.shields.io/badge/Pytorch-1.5.0-green)](https://pytorch.org/)
 
-> ⚠️ End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://authors.elsevier.com/c/1hTvU3qy-3aj0o) paper. If you find the contents of this repository useful in your research, please consider citing us:
+> End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://authors.elsevier.com/c/1hTvU3qy-3aj0o) paper. If you find the contents of this repository useful in your research, please consider citing us:
+>
 > ```BibTeX
 > @article{Sousa2023StructuralRF,
 >   title = {Structural reasoning for image-based social relation recognition},
@@ -44,10 +45,12 @@ pip install -r requirements.txt
 
 Download the benchmark datasets:
 
-- [People in Photo Album (PIPA) dataset](https://people.eecs.berkeley.edu/~nzhang/piper.html)
+- ~~[People in Photo Album (PIPA) dataset](https://people.eecs.berkeley.edu/~nzhang/piper.html)~~
 - [People in Social Context (PISC) dataset](https://zenodo.org/record/1059155)
 
 Additionally, download the [relationship annotations](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/social-relation-recognition) for the PIPA dataset.
+
+> ⚠️ Unfortunately, the **PIPA dataset** has been remove from the internet. You can try to rebuild it using the directions provided in [this](https://github.com/coallaoh/PIPA_dataset) repository.
 
 ## Pre-trained Models
 

@@ -5,7 +5,7 @@
 [![Pytorch](https://img.shields.io/badge/Pytorch-1.5.0-green)](https://pytorch.org/)
 
 > [!NOTE]
-> End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://authors.elsevier.com/c/1hTvU3qy-3aj0o) paper. If you find the contents of this repository useful in your research, please consider citing us:
+> End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://doi.org/10.1016/j.cviu.2023.103785) paper. If you find the contents of this repository useful in your research, please consider citing us:
 >
 > ```BibTeX
 > @article{Sousa2023StructuralRF,

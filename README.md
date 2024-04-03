@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.6-blue)](https://www.python.org/)
 [![Pytorch](https://img.shields.io/badge/Pytorch-1.5.0-green)](https://pytorch.org/)
 
+> [!NOTE]
 > End-to-end implementation of the **Social Graph Network (SGN)** and all the experiments described in the [**Structural Reasoning for Image-based Social Relation Recognition**](https://authors.elsevier.com/c/1hTvU3qy-3aj0o) paper. If you find the contents of this repository useful in your research, please consider citing us:
 >
 > ```BibTeX

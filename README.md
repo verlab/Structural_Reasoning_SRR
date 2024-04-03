@@ -52,7 +52,7 @@ Download the benchmark datasets:
 Additionally, download the [relationship annotations](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/human-activity-recognition/social-relation-recognition) for the PIPA dataset.
 
 > [!IMPORTANT]
-> Unfortunately, the **PIPA dataset** has disappeared from the internet, but you can download an intact copy of the source files I have made available on [Google Drive](<https://drive.google.com/drive/folders/1PgYLqena4TbihzmA4KUKpUxXDl7KUior?usp=drive_link>). The dataset was published by **Zhang, Ning et al**. in the "**Beyond frontal faces: Improving Person Recognition using multiple cues**" paper, under the **Creative Commons Attributions** license. More information about the dataset is presented into the `annotations` folder.
+> Unfortunately, the **PIPA dataset** has disappeared from the internet, but you can download an **intact copy** of the source files I have made available on [Google Drive](<https://drive.google.com/drive/folders/1PgYLqena4TbihzmA4KUKpUxXDl7KUior?usp=drive_link>). The dataset was published by **Zhang, Ning et al**. in the "**Beyond frontal faces: Improving Person Recognition using multiple cues**" paper, under the [**Creative Commons 2.0**](<https://creativecommons.org/licenses/by/2.0/>) license. More information about the dataset is presented into the `annotations` folder.
 
 ## Pre-trained Models
 
